@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../python_upper/NetAssist_PyQt-main/NetAssist_PyQt-main/.idea/NetAssist_PyQt-main.iml" filepath="$PROJECT_DIR$/../../python_upper/NetAssist_PyQt-main/NetAssist_PyQt-main/.idea/NetAssist_PyQt-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python_upper/queedle_pyqt/.idea/queedle_pyqt.iml" filepath="$PROJECT_DIR$/../../python_upper/queedle_pyqt/.idea/queedle_pyqt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/图片处理.iml" filepath="$PROJECT_DIR$/.idea/图片处理.iml" />
+    </modules>
+  </component>
+</project>
